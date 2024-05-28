@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  background-size: cover;
+  padding: 50px;
+  height: 100vh;
+}
+.card-container {
+  border-radius: 15px;
+  background-color: white;
+  border: 1px solid black;
+}
